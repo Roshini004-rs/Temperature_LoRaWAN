@@ -1,5 +1,6 @@
 # INTERFACING TEMPERATURE SENSOR WITH IOT CONTROLLER AND UPLOADING DATA TO THE CLOUD VIA LORAWAN
-
+# NAME : Roshini S
+# Reg no: 212223230174
 # AIM:
 To upload the temperature sensor value in the Things mate using Arduino controller.
 
